@@ -1,12 +1,17 @@
-package com.example;
 
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
 
 class CalculatorTest {
     @Test
     void add_works() {
         assertEquals(5, Calculator.add(2, 3));
+    }
+
+    @Test
+    void subtract_works() {
+        assertEquals(7, Calculator.subtract(10, 3));
     }
 
     @Test
