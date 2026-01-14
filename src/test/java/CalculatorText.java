@@ -11,4 +11,9 @@ class CalculatorTest {
     void divide_works() {
         assertEquals(5, Calculator.divide(10, 2));
     }
+
+        @Test
+    void complex_math() {
+        assertEquals(2, Calculator.divide(Calculator.add(8, 6), 7));
+    }
 }
