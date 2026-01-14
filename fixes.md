@@ -9,3 +9,8 @@
 ## Lösungsschritte - Problem 2
 - Schlechte Commit Message: Stuff
 - Begründung: Stuff ist nichts aussagend.
+- Verbesserung: Debug-Commitet
+
+## Lösungsschritte - Problem 3
+- Debug.log
+- Begründung: Die Datei wird einmal angelegt und es wird nur eine Zeile hinein Geschrieben.
