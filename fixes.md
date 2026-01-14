@@ -14,3 +14,10 @@
 ## Lösungsschritte - Problem 3
 - Debug.log
 - Begründung: Die Datei wird einmal angelegt und es wird nur eine Zeile hinein Geschrieben.
+
+## Lösungsschritte - Problem 4
+1. Gelöschte Datei suchen: usage.md.
+2. mit git checkout in die Version vor dem löschen wechseln.
+3. Datei an einem anderem Ort Zwischenspeicher.
+4. mit git checkout wieder zurück wechseln.
+5. Datei hinen kopieren.
