@@ -1,5 +1,3 @@
-package com.example;
-
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -13,4 +11,10 @@ class CalculatorTest {
     void divide_works() {
         assertEquals(5, Calculator.divide(10, 2));
     }
+
+    @Test
+    void divide_does_work() {
+        assertEquals(2, Calculator.divide(10, 5));
+    }
+
 }
