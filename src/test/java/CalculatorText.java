@@ -11,6 +11,12 @@ class CalculatorTest {
 
     @Test
     void divide_works() {
-        assertEquals(5, Calculator.divide(10, 2));
+        assertEquals(2.5, Calculator.divide(5, 2), 0.001);
     }
+
+    @Test
+    void add_works() {
+        assertEquals(5, Calculator.add(2, 3));
+    }
+
 }
