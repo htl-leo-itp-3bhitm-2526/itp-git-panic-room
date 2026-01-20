@@ -5,9 +5,10 @@ public class Calculator {
         return a + b;
     }
 
-    public static int divide(int a, int b) {
-    // BUG: falscher Divisor -> Division durch 0
-    return a / 0;
-}
-
+    public double divide(double a, double b) {
+    if (b == 0) {
+        throw new IllegalArgumentException("Division by zero ):");
+    }
+    return a / b;
+    }
 }
