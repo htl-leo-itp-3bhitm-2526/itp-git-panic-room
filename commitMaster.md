@@ -27,4 +27,10 @@ Changes in app -> schlechte commitnachricht, keine genauen Angaben nur umschrieb
 
 ## Feinschliff
 
-Changes in App -> Unklar was genau geändert wird, 
+Changes in App -> Unklar was genau geändert wird, akzeptabel wenn vorher schon klar ist was genau geändert wurde, Besserung durch genaues Anführen was genau geändert wurde.
+
+Adjust logic -> Beschrieben was gemacht wurde aber zu ungenau formuliert, akzeptabel wenn voher schon genauerers Beschreiben wurde, Besserung durch genaues angeben was geändert und gefixxt wurde.
+
+Cleanup -> Umgangsprachlich weiß man was gemeint ist jedoch ist nicht genau beschrieben was und wie genau es durchgeführt wurde.
+
+Improve readability -> Ebenfalls weiß man was damit gemeint ist jedoch wieder zu mager beschrieben was genau gemacht wurde.
